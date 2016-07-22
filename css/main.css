@@ -1,0 +1,32 @@
+
+.separador{
+	width: 100px;
+	border: 5px solid #000;
+}
+div{
+	display: 200px;
+}
+.galeria{	
+	margin: 0 auto;
+	position: relative;
+	width: 50%;
+}
+
+.datos{
+	position: absolute;
+	color:#FFFFFF;
+	font-size: 16px;
+	font-family: arial;
+	right: 0px;
+	bottom: 0px;	
+}
+.imagen{
+	position: relative;
+	display: inline-block;
+	background: rgba(0,0,0,0.8);
+}
+.overlay{
+	widows: 211px;
+	height: 211px;
+	opacity: 0.5;
+}
